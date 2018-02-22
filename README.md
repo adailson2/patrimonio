@@ -1,2 +1,2 @@
-# patrimonio-ui
+# patrimonio
 Workshop Algaworks Spring Boot + Angular
